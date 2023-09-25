@@ -1,1 +1,2 @@
-# Deep_learning_to_predect_Substance_Abuse
+# Deep learning to predect Substance Abuse
+Given a input hugedata file predecting wheteher a person is drunk.
